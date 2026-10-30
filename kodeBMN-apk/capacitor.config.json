@@ -1,7 +1,0 @@
-{
-  "appId": "id.kodebmn.app",
-  "appName": "Kode BMN",
-  "webDir": "www",
-  "backgroundColor": "#F4F6FB",
-  "server": { "androidScheme": "https" }
-}
